@@ -176,13 +176,6 @@ h4 {
   margin-bottom: 30px;
 }
 
-/* 
-section .row [class^="col-sm-"] + [class^="col-sm-"],
-section .row [class*=" col-sm-"] + [class*=" col-sm-"] {
-  margin-top: 30px;
-} */
-
-
 section.row,
 footer.row {
 padding: 30px 30px 60px;
@@ -200,37 +193,6 @@ padding: 30px 30px 60px;
 
   
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 .copy{
